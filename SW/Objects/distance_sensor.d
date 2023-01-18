@@ -1,0 +1,17 @@
+.\objects\distance_sensor.o: distance_sensor.c
+.\objects\distance_sensor.o: distance_sensor.h
+.\objects\distance_sensor.o: C:\Users\101\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL05Z4.h
+.\objects\distance_sensor.o: C:\Users\101\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h
+.\objects\distance_sensor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\distance_sensor.o: C:\Users\101\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\distance_sensor.o: C:\Users\101\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\distance_sensor.o: C:\Users\101\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\distance_sensor.o: C:\Users\101\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\system_MKL05Z4.h
+.\objects\distance_sensor.o: frdm_bsp.h
+.\objects\distance_sensor.o: lcd1602.h
+.\objects\distance_sensor.o: i2c.h
+.\objects\distance_sensor.o: klaw.h
+.\objects\distance_sensor.o: delay.h
+.\objects\distance_sensor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\distance_sensor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\distance_sensor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
